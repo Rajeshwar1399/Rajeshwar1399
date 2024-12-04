@@ -22,4 +22,4 @@
   - [DP-900: Microsoft Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/RajeshwarBusa-9609/CE2CFFFD05D9070A?sharingId=56AB6E7B466CEBF4)
   - [DP-203: Microsoft Azure Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/RajeshwarBusa-9609/A21A1582D268FDE6?sharingId=56AB6E7B466CEBF4)
   
-If you want to talk to me or want to discuess something then feel free to ping on LinkedIn.
+If you want to talk to me or want to discuss something then feel free to ping on LinkedIn.
